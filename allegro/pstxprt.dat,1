@@ -1,0 +1,260 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Aug-01-2019 at 10:28:33 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CAD_4';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_CAPCK05_0.001UF':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS67@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins67@discrete.\cap np.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins67@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_CAPCK05_270PF':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS83@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins83@discrete.\cap np.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins83@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_CAPCK05_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS1831@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins1831@discrete.\cap np.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins1831@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_CAPCK05_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS1857@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins1857@discrete.\cap np.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins1857@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_CAPCK05_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS1883@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins1883@discrete.\cap np.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins1883@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_CAPCK05_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS1909@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins1909@discrete.\cap np.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins1909@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS1404@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins1404@connector.\con2.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins1404@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON3_JUMPER3_CON3':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS1566@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins1566@connector.\con3.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins1566@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS26@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins26@discrete.\r.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins26@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS291@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins291@discrete.\r.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins291@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES400_100K':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS42@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins42@discrete.\r.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins42@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS109@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins109@discrete.\r.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins109@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES400_R':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS135@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins135@discrete.\r.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins135@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES400_62K':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS161@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins161@discrete.\r.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins161@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS187@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins187@discrete.\r.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins187@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS213@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins213@discrete.\r.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins213@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS239@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins239@discrete.\r.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins239@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS265@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins265@discrete.\r.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins265@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'LF351_DIP8_3_LF351':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS326@OPAMP.LF351.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins326@opamp.\lf351.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins326@opamp.\lf351.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LF351_DIP8_3_LF351':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS583@OPAMP.LF351.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins583@opamp.\lf351.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins583@opamp.\lf351.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'LF351_DIP8_3_LF351':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS1015@OPAMP.LF351.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins1015@opamp.\lf351.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins1015@opamp.\lf351.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'LF351_DIP8_3_LF351':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS1139@OPAMP.LF351.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins1139@opamp.\lf351.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins1139@opamp.\lf351.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'LM7812/TO_5_TO-220_LM7812':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS1620@CAD_4.LM7812/TO_5.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins1620@cad_4.\lm7812/to_5.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins1620@cad_4.\lm7812/to_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'LM7912C/TO3_2_TO-220_LM7912':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS1953@CAD_4.LM7912C/TO3_2.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins1953@cad_4.\lm7912c/to3_2.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins1953@cad_4.\lm7912c/to3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VR1 'POT_RESADJ_1M':;
+
+SECTION_NUMBER 1
+ '@CAD_4.SCHEMATIC1(SCH_1):INS885@DISCRETE.POT.NORMAL(CHIPS)':
+ C_PATH='@cad_4.schematic1(sch_1):ins885@discrete.\pot.normal\(chips)',
+ P_PATH='@cad_4.schematic1(sch_1):page1_ins885@discrete.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

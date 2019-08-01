@@ -1,0 +1,141 @@
+\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Aug 01 11:52:51 2019
+\t (00:00:02)         Host=USER-PC User=user Pid=5844 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:04) Design opened: C:/USERS/USER/DESKTOP/ORCAD WORK/CAD_4/allegro/CAD_4.brd
+\i (00:00:04) trapsize 346
+\i (00:00:04) trapsize 354
+\i (00:00:04) trapsize 357
+\i (00:00:04) trapsize 343
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 76.483 44.742
+\i (00:00:05) trapsize 686
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 75.935 44.194
+\i (00:00:05) trapsize 1373
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 99.352 63.112
+\i (00:00:05) trapsize 2729
+\i (00:00:06) prepopup 234.409 172.724
+\i (00:00:07) pick grid 117.589 125.231
+\t (00:00:07) last pick:  117.475 125.095
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 58.086 29.700
+\i (00:00:08) trapsize 1365
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 54.811 24.787
+\i (00:00:08) trapsize 682
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 52.764 18.783
+\i (00:00:08) trapsize 1365
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 52.491 18.237
+\i (00:00:08) trapsize 2729
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 2.406 -13.971
+\i (00:00:09) trapsize 1365
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 2.406 -13.152
+\i (00:00:09) trapsize 682
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 20.421 15.235
+\i (00:00:10) trapsize 341
+\i (00:01:37) xhilite 
+\i (00:01:37) xNet N00716 
+\i (00:01:37) xNet N01809 
+\i (00:01:37) xNet N01925 
+\i (00:01:37) xNet N01446 
+\i (00:01:37) xNet N00463 
+\i (00:01:37) xNet N01061 
+\i (00:01:37) xrefdes C2 
+\i (00:01:37) xNet N01079 
+\i (00:01:37) xNet +Vcc 
+\i (00:01:37) xNet N00478 
+\i (00:01:37) xrefdes C5 
+\i (00:01:37) xrefdes R9 
+\i (00:01:37) xNet N00525 
+\i (00:01:37) xrefdes U3 
+\i (00:01:37) xrefdes U1 
+\i (00:01:37) xNet Gnd 
+\i (00:01:37) xrefdes Vr1 
+\i (00:01:37) xrefdes R3 
+\i (00:01:37) xrefdes U4 
+\i (00:01:37) xrefdes C6 
+\i (00:01:37) xrefdes R10 
+\i (00:01:37) xNet N01510 
+\i (00:01:37) xrefdes R2 
+\i (00:01:37) xNet N01073 
+\i (00:01:37) xNet -Vcc 
+\i (00:01:37) xrefdes U2 
+\i (00:01:37) xrefdes R4 
+\i (00:01:37) xNet N00903 
+\i (00:01:37) xrefdes R5 
+\i (00:01:37) xNet N02789 
+\i (00:01:37) xrefdes C1 
+\i (00:01:37) xrefdes R6 
+\i (00:01:37) xNet N02926 
+\i (00:01:37) xNet N00841 
+\i (00:01:37) xrefdes C3 
+\i (00:01:37) xrefdes R7 
+\i (00:01:37) xrefdes U5 
+\i (00:01:37) xrefdes J1 
+\i (00:01:37) xrefdes R1 
+\i (00:01:37) xrefdes U6 
+\i (00:01:37) xrefdes C4 
+\i (00:01:37) xrefdes R8 
+\i (00:01:37) xrefdes J2 
+\i (00:01:37) xname_flush 
+\t (00:01:37) 18 Net(s) highlighted.
+\t (00:01:37) 25 Component(s) highlighted.
+\i (00:01:37) done 
+\i (00:01:37) generaledit 
+\i (00:04:29) xhilite 
+\i (00:04:29) xNet N00716 
+\i (00:04:29) xNet N01809 
+\i (00:04:29) xNet N01925 
+\i (00:04:29) xNet N01446 
+\i (00:04:29) xNet N00463 
+\i (00:04:29) xNet N01061 
+\i (00:04:29) xrefdes C2 
+\i (00:04:29) xNet N01079 
+\i (00:04:29) xNet +Vcc 
+\i (00:04:29) xNet N00478 
+\i (00:04:29) xrefdes C5 
+\i (00:04:29) xrefdes R9 
+\i (00:04:29) xNet N00525 
+\i (00:04:29) xrefdes U3 
+\i (00:04:29) xrefdes U1 
+\i (00:04:29) xNet Gnd 
+\i (00:04:29) xrefdes Vr1 
+\i (00:04:29) xrefdes R3 
+\i (00:04:29) xrefdes U4 
+\i (00:04:29) xrefdes R10 
+\i (00:04:29) xrefdes C6 
+\i (00:04:29) xNet N01510 
+\i (00:04:29) xrefdes R2 
+\i (00:04:29) xNet N01073 
+\i (00:04:29) xNet -Vcc 
+\i (00:04:29) xrefdes U2 
+\i (00:04:29) xrefdes R4 
+\i (00:04:29) xNet N00903 
+\i (00:04:29) xrefdes R5 
+\i (00:04:29) xNet N02789 
+\i (00:04:29) xrefdes C1 
+\i (00:04:29) xrefdes R6 
+\i (00:04:29) xNet N02926 
+\i (00:04:29) xNet N00841 
+\i (00:04:29) x

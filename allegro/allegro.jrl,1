@@ -1,0 +1,468 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Thu Aug 01 11:42:44 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=5640 CPUs=4
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\d (00:00:03) Design opened: C:/USERS/USER/DESKTOP/ORCAD WORK/CAD_4/allegro/CAD_4.brd
+\i (00:00:03) trapsize 693
+\i (00:00:04) trapsize 709
+\i (00:00:04) trapsize 713
+\i (00:00:04) trapsize 686
+\i (00:00:04) generaledit 
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 61.862 48.495
+\i (00:00:09) trapsize 343
+\i (00:00:11) prepopup 22.950 67.985
+\i (00:00:23) pick grid 102.146 61.465
+\t (00:00:23) last pick:  102.235 61.595
+\i (00:00:31) datatips toggle 
+\i (00:00:31) datatips toggle 
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 54.244 67.161
+\i (00:00:39) trapsize 686
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 55.343 66.751
+\i (00:00:39) trapsize 1373
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 146.273 156.430
+\i (00:00:39) trapsize 2729
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 156.893 105.579
+\i (00:00:40) trapsize 1365
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 156.138 105.579
+\i (00:00:40) trapsize 682
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 212.092 120.592
+\i (00:00:41) trapsize 1365
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 212.092 120.591
+\i (00:00:41) trapsize 2729
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 380.708 165.627
+\i (00:00:41) trapsize 2729
+\i (00:00:46) zoom in 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in -13.425 121.410
+\i (00:00:46) trapsize 1365
+\i (00:00:46) zoom in 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in -4.963 108.309
+\i (00:00:46) trapsize 682
+\i (00:00:49) prmed 
+\i (00:00:50) setwindow form.prmedit
+\i (00:00:50) FORM prmedit display_plated_holes NO 
+\i (00:00:51) FORM prmedit display_backdrill_holes NO 
+\i (00:00:52) FORM prmedit display_non_plated_holes NO 
+\i (00:00:52) FORM prmedit display_connect_points NO 
+\i (00:00:53) FORM prmedit display_padless_holes NO 
+\i (00:00:54) FORM prmedit display_endcaps NO 
+\i (00:00:54) FORM prmedit display_enhance NO 
+\i (00:00:55) FORM prmedit display_endcaps YES 
+\i (00:00:55) FORM prmedit display_thermal NO 
+\i (00:00:56) FORM prmedit display_fat_rats NO 
+\i (00:00:56) FORM prmedit display_endcaps NO 
+\i (00:00:57) FORM prmedit display_fat_rats YES 
+\i (00:00:57) FORM prmedit waived_drc_on NO 
+\i (00:00:58) FORM prmedit via_labels NO 
+\i (00:00:58) FORM prmedit display_org NO 
+\i (00:00:59) FORM prmedit dp_driver_pins NO 
+\i (00:00:59) FORM prmedit secondary_step_model NO 
+\i (00:01:01) FORM prmedit done  
+\i (00:01:01) setwindow pcb
+\i (00:01:01) generaledit 
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom out 24.652 73.372
+\i (00:01:01) trapsize 1365
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom out 35.978 73.371
+\i (00:01:01) trapsize 2729
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom out 121.956 -44.541
+\i (00:01:01) trapsize 2729
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom out 122.502 -43.995
+\i (00:01:01) trapsize 2729
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in 60.270 -18.884
+\i (00:01:02) trapsize 1365
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in 59.997 -19.157
+\i (00:01:02) trapsize 682
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 50.035 1.451
+\i (00:01:03) trapsize 341
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 49.762 2.065
+\i (00:01:03) trapsize 171
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 49.728 2.304
+\i (00:01:03) trapsize 85
+\i (00:01:03) zoom out 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom out 49.659 3.089
+\i (00:01:03) trapsize 171
+\i (00:01:03) zoom out 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom out 49.591 3.123
+\i (00:01:03) trapsize 341
+\i (00:01:03) zoom out 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom out 49.591 3.192
+\i (00:01:03) trapsize 682
+\i (00:01:03) zoom out 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom out 49.045 3.874
+\i (00:01:03) trapsize 1365
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in 233.561 57.816
+\i (00:01:04) trapsize 682
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 136.799 36.935
+\i (00:01:04) trapsize 1365
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 72.606 35.571
+\i (00:01:04) trapsize 2729
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in -12.334 29.700
+\i (00:01:05) trapsize 1365
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in -11.242 27.244
+\i (00:01:05) trapsize 682
+\i (00:01:08) prmed 
+\i (00:01:10) setwindow form.prmedit
+\i (00:01:10) FORM prmedit display_plated_holes YES 
+\i (00:01:10) FORM prmedit display_backdrill_holes YES 
+\i (00:01:10) FORM prmedit display_non_plated_holes YES 
+\i (00:01:11) FORM prmedit display_connect_points YES 
+\i (00:01:11) FORM prmedit display_enhance YES 
+\i (00:01:12) FORM prmedit display_endcaps YES 
+\i (00:01:13) FORM prmedit display_thermal YES 
+\i (00:01:14) FORM prmedit waived_drc_on YES 
+\i (00:01:14) FORM prmedit via_labels YES 
+\i (00:01:14) FORM prmedit display_org YES 
+\i (00:01:15) FORM prmedit dp_driver_pins YES 
+\i (00:01:16) FORM prmedit secondary_step_model YES 
+\i (00:01:17) FORM prmedit done  
+\i (00:01:17) setwindow pcb
+\i (00:01:17) generaledit 
+\i (00:01:24) color192 
+\i (00:01:24) generaledit 
+\i (00:01:26) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:01:27) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:01:31) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 17 1
+\i (00:01:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Outline BrdGeo
+\i (00:01:31) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:32) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 17 1
+\i (00:01:32) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Outline BrdGeo
+\i (00:01:32) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:33) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:01:34) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:01:36) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (00:01:36) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Rigid flex"
+\i (00:01:37) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Surface finishes"
+\i (00:01:39) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:01:40) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:01:42) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:01:44) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:03:46) pick grid 45.122 85.791
+\t (00:03:46) last pick:  45.085 85.725
+\i (00:04:14) add_viaarray 
+   (00:04:14) Loading algroRFPCB.cxt 
+   (00:04:14) Loading skillExt.cxt 
+\i (00:04:17) zoom out 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom out 88.930 70.915
+\i (00:04:17) trapsize 1365
+\i (00:04:17) zoom in 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom in 93.842 32.157
+\i (00:04:17) trapsize 682
+\i (00:04:18) zoom in 1 
+\i (00:04:18) setwindow pcb
+\i (00:04:18) zoom in 93.296 32.157
+\i (00:04:18) trapsize 341
+\i (00:04:18) zoom out 1 
+\i (00:04:18) setwindow pcb
+\i (00:04:18) zoom out 97.186 33.931
+\i (00:04:18) trapsize 682
+\i (00:04:25) setwindow form.mini
+\i (00:04:25) FORM mini enabledrc YES 
+\i (00:04:28) FORM mini netbrowser  
+\i (00:04:37) fillin "Gnd"
+\i (00:04:58) FORM mini availablepadstackslist VIA 
+\i (00:05:07) setwindow pcb
+\i (00:05:07) pick 5 5 
+\t (00:05:07) last pick:  5.000 5.000
+\i (00:05:11) pick 95 65 
+\t (00:05:11) last pick:  95.000 65.000
+\i (00:05:15) zoom out 1 
+\i (00:05:15) setwindow pcb
+\i (00:05:15) zoom out 53.651 29.428
+\i (00:05:15) trapsize 1365
+\i (00:05:15) zoom out 1 
+\i (00:05:15) setwindow pcb
+\i (00:05:15) zoom out 53.379 30.246
+\i (00:05:15) trapsize 2729
+\i (00:05:15) zoom out 1 
+\i (00:05:15) setwindow pcb
+\i (00:05:15) zoom out 91.386 110.492
+\i (00:05:15) trapsize 2729
+\i (00:05:16) zoom in 1 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) zoom in 28.062 22.604
+\i (00:05:16) trapsize 1365
+\i (00:05:16) zoom in 1 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) zoom in 22.057 7.046
+\i (00:05:16) trapsize 682
+\i (00:05:16) zoom in 1 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) zoom in 21.921 6.227
+\i (00:05:16) trapsize 341
+\i (00:05:18) save 
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 63.409 30.656
+\i (00:05:23) trapsize 682
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 63.409 30.247
+\i (00:05:23) trapsize 1365
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 151.434 64.637
+\i (00:05:23) trapsize 2729
+\i (00:05:24) zoom in 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom in 14.961 -5.783
+\i (00:05:24) trapsize 1365
+\i (00:05:24) zoom in 1 
+\i (00:05:24) setwindow pcb
+\i (00:05:24) zoom in 14.962 -5.782
+\i (00:05:24) trapsize 682
+\i (00:05:29) prepopup 130.691 64.092
+\e (00:05:30) Command not found: finish Done
+\i (00:05:38) zoom in 1 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom in 9.367 81.561
+\i (00:05:38) trapsize 341
+\i (00:05:38) zoom in 1 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom in 9.367 81.561
+\i (00:05:38) trapsize 171
+\i (00:05:38) zoom in 1 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom in 9.367 81.561
+\i (00:05:38) trapsize 85
+\i (00:05:38) pick 9.367 81.562
+\t (00:05:38) last pick:  9.367 81.562
+\t (00:05:38) Performing DRC...
+\t (00:05:38) Multithreaded DRC update (4 threads).
+\t (00:05:38) DRC done; 68 errors detected.
+\t (00:05:49) > Net "+Vcc"
+\i (00:05:49) setwindow worldview
+\i (00:05:49) trapsize 270
+\i (00:05:49) setwindow pcb
+\i (00:05:49) zoom out 1 
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom out 28.421 30.188
+\i (00:05:50) trapsize 540
+\i (00:06:12) trapsize 1249
+\i (00:06:43) dehilight 
+\w (00:06:43) Cannot exit current application
+\w (00:06:43) Cannot exit current application
+\i (00:06:43) generaledit 
+\i (00:06:45) drag_start grid -6.086 78.542
+\i (00:06:45) roam y 16
+\i (00:06:46) drag_stop 115.538 -4.298
+\i (00:06:52) setwindow form.find
+\i (00:06:52) FORM find all_on  
+\i (00:06:53) setwindow pcb
+\i (00:06:53) drag_start grid -5.587 81.114
+\i (00:06:54) roam y 16
+\i (00:06:55) drag_stop 113.790 -5.546
+\i (00:06:57) pick grid 131.771 75.120
+\t (00:06:57) last pick:  132.080 74.930
+\i (00:07:00) setwindow form.find
+\i (00:07:00) FORM find groups NO 
+\i (00:07:01) setwindow pcb
+\i (00:07:01) drag_start grid -9.832 78.117
+\i (00:07:01) drag_stop 105.798 -8.294
+\i (00:07:02) pick grid 123.780 64.381
+\t (00:07:02) last pick:  123.825 64.135
+\i (00:07:04) setwindow form.find
+\i (00:07:04) FORM find all_on  
+\i (00:07:06) setwindow pcb
+\i (00:07:06) dehilight 
+\i (00:07:09) drag_start grid -7.085 81.364
+\i (00:07:10) drag_stop 118.535 -5.297
+\t (00:07:10) 18 Net(s) dehighlighted.
+\t (00:07:10) 23 Component(s) dehighlighted.
+\i (00:07:11) prepopup 66.838 86.858
+\i (00:07:11) done 
+\i (00:07:11) generaledit 
+\i (00:07:38) color192 
+\i (00:07:38) generaledit 
+\i (00:07:40) QtSignal ColorVisibilityDialog CVDTabs currentChanged Nets
+\i (00:07:44) QtSignal ColorVisibilityDialog CVDTabs currentChanged Layers
+\i (00:07:58) pick grid 124.029 85.609
+\t (00:07:58) last pick:  123.825 85.725
+\i (00:07:59) pick grid 7.650 87.108
+\t (00:07:59) last pick:  7.620 86.995
+\i (00:08:08) trapsize 540
+\i (00:08:34) QtSignal CVPLayerGrid CVPBoxAllAll clicked false
+\i (00:08:34) QtSignal CVPLayerGrid CVPBoxAllAll clicked true
+\i (00:08:36) zoom in 1 
+\i (00:08:36) setwindow pcb
+\i (00:08:36) zoom in 59.507 41.450
+\i (00:08:36) trapsize 270
+\i (00:08:37) zoom out 1 
+\i (00:08:37) setwindow pcb
+\i (00:08:37) zoom out 60.694 39.616
+\i (00:08:37) trapsize 540
+\i (00:08:37) zoom out 1 
+\i (00:08:37) setwindow pcb
+\i (00:08:37) zoom out 57.781 41.882
+\i (00:08:37) trapsize 1079
+\i (00:08:38) zoom in 1 
+\i (00:08:38) setwindow pcb
+\i (00:08:38) zoom in 27.283 74.559
+\i (00:08:38) trapsize 540
+\i (00:08:58) trapsize 1283
+\i (00:08:59) trapsize 1415
+\i (00:08:59) zoom in 1 
+\i (00:08:59) setwindow pcb
+\i (00:08:59) zoom in 73.804 121.774
+\i (00:08:59) trapsize 707
+\i (00:08:59) zoom in 1 
+\i (00:08:59) setwindow pcb
+\i (00:08:59) zoom in 73.804 121.774
+\i (00:08:59) trapsize 354
+\i (00:09:08) add_viaarray 
+\i (00:09:10) setwindow form.mini
+\i (00:09:10) FORM mini netbrowser  
+\i (00:09:12) fillin "Gnd"
+\i (00:09:15) setwindow pcb
+\i (00:09:15) trapsize 135
+\i (00:09:17) zoom out 1 
+\i (00:09:17) setwindow pcb
+\i (00:09:17) zoom out 73.805 105.060
+\i (00:09:17) trapsize 270
+\i (00:09:17) zoom out 1 
+\i (00:09:17) setwindow pcb
+\i (00:09:17) zoom out 73.804 105.059
+\i (00:09:17) trapsize 540
+\i (00:09:17) zoom out 1 
+\i (00:09:17) setwindow pcb
+\i (00:09:17) zoom out 78.229 78.615
+\i (00:09:17) trapsize 1079
+\i (00:09:17) zoom out 1 
+\i (00:09:17) setwindow pcb
+\i (00:09:17) zoom out 94.636 128.483
+\i (00:09:17) trapsize 2159
+\i (00:09:17) zoom out 1 
+\i (00:09:17) setwindow pcb
+\i (00:09:17) zoom out 239.271 128.483
+\i (00:09:17) trapsize 2729
+\i (00:09:17) zoom out 1 
+\i (00:09:17) setwindow pcb
+\i (00:09:17) zoom out 314.655 156.347
+\i (00:09:17) trapsize 2729
+\i (00:09:18) zoom in 1 
+\i (00:09:18) setwindow pcb
+\i (00:09:18) zoom in 85.927 -0.324
+\i (00:09:18) trapsize 1365
+\i (00:09:18) zoom in 1 
+\i (00:09:18) setwindow pcb
+\i (00:09:18) zoom in 83.471 -1.416
+\i (00:09:18) trapsize 682
+\i (00:09:18) zoom out 1 
+\i (00:09:18) setwindow pcb
+\i (00:09:18) zoom out 74.055 2.405
+\i (00:09:18) trapsize 1365
+\i (00:09:19) zoom out 1 
+\i (00:09:19) setwindow pcb
+\i (00:09:19) zoom out 44.304 -2.507
+\i (00:09:19) trapsize 2729
+\i (00:09:19) zoom out 1 
+\i (00:09:19) setwindow pcb
+\i (00:09:19) zoom out -16.155 2.951
+\i (00:09:19) trapsize 2729
+\i (00:09:19) zoom in 1 
+\i (00:09:19) setwindow pcb
+\i (00:09:19) zoom in -17.792 -7.966
+\i (00:09:19) trapsize 1365
+\i (00:09:23) pick 5 5 
+\t (00:09:23) last pick:  5.000 5.000
+\i (00:09:29) pick 95 65 
+\t (00:09:29) last pick:  95.000 65.000
+\i (00:09:32) zoom in 1 
+\i (00:09:32) setwindow pcb
+\i (00:09:32) zoom in 27.790 29.427
+\i (00:09:32) trapsize 682
+\i (00:09:32) zoom in 1 
+\i (00:09:32) setwindow pcb
+\i (00:09:32) zoom in 26.835 29.154
+\i (00:09:32) trapsize 341
+\i (00:09:34) prepopup 25.811 62.726
+\e (00:09:35) Command not found: finish Done
+\i (00:09:36) zoom out 1 
+\i (00:09:36) setwindow pcb
+\i (00:09:36) zoom out 38.435 40.140
+\i (00:09:36) trapsize 682
+\i (00:09:37) prepopup 36.524 83.402
+\e (00:09:38) Command not found: finish Done
+\i (00:09:38) prepopup 38.298 81.219
+\e (00:09:39) Command not found: finish Done
+\i (00:09:43) zoom in 1 
+\i (00:09:43) setwindow pcb
+\i (00:09:43) zoom in 93.024 43.143
+\i (00:09:43) trapsize 341
+\i (00:09:47) pick 109.333 63.137
+\t (00:09:47) last pick:  109.333 63.137
+\t (00:09:47) Performing DRC...
+\t (00:09:48) Multithreaded DRC update (4 threads).
+\t (00:09:48) DRC done; 68 errors detected.
+\i (00:09:49) pick 109.811 53.652
+\t (00:09:49) last pick:  109.811 53.652
+\i (00:09:50) prepopup 114.655 53.447
+\e (00:09:50) Command not found: finish Done
+\i (00:09:51) prepopup 112.267 54.266
+\e (00:09:51) Command not found: finish Cancel
+\i (00:09:52) prepopup 109.742 51.263
+\e (00:09:53) Command not found: finish Cancel
+\i (00:09:53) prepopup 110.152 51.195
+\e (00:09:54) Command not found: finish Cancel
+\i (00:09:54) prepopup 109.333 53.379
+\e (00:09:55) Command not found: finish Oops
+\e (00:09:56) Command not found: ~Z
+\i (00:09:57) exit 
+\e (00:09:57) Do you want to save the changes you made to CAD_4.brd?
+\i (00:09:59) fillin yes 
+\t (00:09:59)     Journal end - Thu Aug 01 11:52:42 2019
